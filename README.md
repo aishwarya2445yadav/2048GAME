@@ -6,3 +6,5 @@ Check if the image has been succesfully created "C:\Users\aishw\2048> docker ima
 This command will give you the image create along with its image id
 then to run it on local host I've used "C:\Users\aishw\2048> docker run -d -p 80:80 img id"
 After this you will need to open the aws Elastci bean stalk console and configure the IAM roles, create an environment , load your dockerfile and deploy it on aws
+![image](https://github.com/aishwarya2445yadav/2048GAME/assets/64578654/6c2dd249-446d-47be-a884-9cdf93aca93c)
+
